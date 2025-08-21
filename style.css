@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url(images/background.png) no-repeat center center/cover;
+  background: url(background.png) no-repeat center center/cover;
 }
 .container {
   display: flex;
@@ -246,4 +246,5 @@ body {
   #task-list li {
     font-size: 1rem;
   }
+
 }
